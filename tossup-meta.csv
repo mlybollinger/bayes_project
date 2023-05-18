@@ -1,0 +1,481 @@
+round,tossup,category,subcategory,answer,words
+1,1,History,European History,German university students,149
+1,2,Science,Physics,gravitational lensing,138
+1,3,Arts,Painting/Sculpture,Kara Walker,148
+1,4,History,American History,George Crook,144
+1,5,Thought,Social Science,communication,133
+1,6,Beliefs and Other,Mythology,having a strong scent,156
+1,7,Literature,World Literature,Argentina,166
+1,8,Science,Chemistry,carbon AND oxygen,141
+1,9,Beliefs and Other,Religion,Parsis,151
+1,10,Literature,European Literature,The School for Wives,158
+1,11,History,Other History,Thessalonica,140
+1,12,Arts,Other Fine Arts,the Major-General,154
+1,13,History,World History&gt;,Angola,141
+1,14,Thought,Philosophy,Parmenides of Elea,148
+1,15,Literature,American Literature,Suzan-Lori Parks,159
+1,16,Arts,Classical Music,Manfred Symphony,148
+1,17,Science,Biology,psoriasis,142
+1,18,Literature,British Literature,Catherine Morland,145
+1,19,Beliefs and Other,Geography,Mauritius,149
+1,20,Science,Other Science,cardinal numbers,140
+10,1,Thought,Philosophy,Georg Wilhelm Friedrich Hegel,123
+10,2,Literature,American Literature,Sula Peace,147
+10,3,Science,Other Science,aquifers,137
+10,4,Arts,Painting/Sculpture,Tower of Babel,152
+10,5,Beliefs and Other,Mythology,Rostam,169
+10,6,Science,Biology,skin color change,136
+10,7,History,American History,Title IX,137
+10,8,Arts,Other Fine Arts,Marcel Duchamp,154
+10,9,Literature,British Literature,debtors’ prisons,152
+10,10,History,World History,Guatemala,141
+10,11,Thought,Social Science,accusative case,136
+10,12,Science,Chemistry,oxidations,120
+10,13,Arts,Classical Music,Jean Sibelius,152
+10,14,Science,Physics,spin–statistics theorem,152
+10,15,History,European History,Joséphine Bonaparte,147
+10,16,Literature,World Literature,Urdu,152
+10,17,Beliefs and Other,Religion,Book of Joel,150
+10,18,Beliefs and Other,Current Events,Russia,129
+10,19,History,Other History,al-Andalus,147
+10,20,Literature,European Literature,Pindar,151
+11,1,Literature,British Literature,Dylan Thomas,158
+11,2,Science,Biology,phosphofructokinase,127
+11,3,History,European History,Pakistan,150
+11,4,Science,Physics,nonlocality,149
+11,5,Beliefs and Other,Geography,Río de la Plata,149
+11,6,Literature,American Literature,Her Body and Other Parties,160
+11,7,Arts,Classical Music,Concerto for Orchestra,149
+11,8,History,World History,Gwangju Uprising,149
+11,9,Thought,Philosophy,Peter,140
+11,10,Beliefs and Other,Religion,five,134
+11,11,Science,Chemistry,heat exchangers,140
+11,12,History,American History,Patrick Henry,142
+11,13,Arts,Other Fine Arts,“My Favorite Things”,143
+11,14,Beliefs and Other,Other Academic,Davy Jones,149
+11,15,History,Other History,bison hunting,143
+11,16,Literature,World Literature,butterflies,161
+11,17,Thought,Social Science,violence,140
+11,18,Literature,European Literature,Héloïse,135
+11,19,Science,Other Science,concurrent systems,133
+11,20,Arts,Painting/Sculpture,The Hunt in the Forest,147
+12,1,Beliefs and Other,Other Academic,pigs,155
+12,2,History,American History,logging industry,136
+12,3,Literature,British Literature,The History Boys,143
+12,4,Arts,Painting/Sculpture,Work,153
+12,5,Literature,American Literature,“The Birth-Mark”,150
+12,6,History,World History,Havana,153
+12,7,Science,Biology,Madagascar,134
+12,8,Thought,Philosophy,sentience,143
+12,9,Science,Chemistry,NMR,125
+12,10,Beliefs and Other,Geography,Des Moines,153
+12,11,Arts,Classical Music,J. S. Bach’s cello suites,130
+12,12,Science,Other Science,carbon,143
+12,13,History,Other History,gens Claudia,159
+12,14,Beliefs and Other,Religion,dreams,147
+12,15,Literature,European Literature,Nelly Sachs,160
+12,16,Thought,Social Science,Roger Shepard,137
+12,17,Science,Physics,Murray Gell-Mann,132
+12,18,History,European History,Highland Clearances,140
+12,19,Literature,World Literature,Han Kang,157
+12,20,Arts,Other Fine Arts,marble,150
+13,1,Science,Biology,vaginal microbiome,125
+13,2,Arts,Painting/Sculpture,Lee Krasner,147
+13,3,Literature,World Literature,Latin America,155
+13,4,Beliefs and Other,Religion,tooth of the Buddha,158
+13,5,Arts,Other Fine Arts,Ennio Morricone,151
+13,6,History,World History,expulsion of Asians from Uganda,142
+13,7,Beliefs and Other,Mythology,helmets,150
+13,8,Literature,European Literature,The Chairs,159
+13,9,Thought,Philosophy,knowledge,123
+13,10,History,Other History,Acadians,151
+13,11,Literature,British Literature,Jesus Christ,136
+13,12,Science,Chemistry,metal-ligand bond length,139
+13,13,History,European History,Wittenberg,147
+13,14,Thought,Social Science,social structure,137
+13,15,Arts,Classical Music,William Walton,128
+13,16,Beliefs and Other,Current Events,South Africa,139
+13,17,Science,Physics,antiferromagnetism,127
+13,18,Literature,American Literature,Hickey,165
+13,19,Science,Other Science,homotopies,175
+13,20,History,American History,Pentagon Papers,151
+14,1,Science,Biology,hyaluronic acid,124
+14,2,Literature,American Literature,Russian,150
+14,3,Arts,Other Fine Arts,Bayreuth Festival,147
+14,4,History,American History,South Carolina,145
+14,5,Literature,British Literature,Crash,139
+14,6,Thought,Social Science,Erikson,126
+14,7,History,European History,Carolingian dynasty,150
+14,8,Beliefs and Other,Religion,Anointing of the Sick,155
+14,9,Beliefs and Other,Geography,Pernambuco,146
+14,10,Arts,Classical Music,clarinet,131
+14,11,Science,Other Science,device drivers,140
+14,12,Literature,World Literature,human corpses,170
+14,13,Science,Physics,Zeeman effect,147
+14,14,Arts,Painting/Sculpture,pastels,136
+14,15,Thought,Philosophy,motion,127
+14,16,Beliefs and Other,Other Academic,blankets,152
+14,17,History,World History,Azande,140
+14,18,Literature,European Literature,Ludovico Ariosto,163
+14,19,History,Other History,Piraeus,150
+14,20,Science,Chemistry,optical rotation,138
+15,1,Literature,European Literature,Prometheus Bound,154
+15,2,Science,Chemistry,organic synthesis,130
+15,3,Literature,World Literature,Ocampo,155
+15,4,History,American History,Union Pacific Railroad Company,141
+15,5,Literature,American Literature,“Hurt Hawks”,152
+15,6,Science,Physics,conservation of energy,142
+15,7,History,European History,Ireland,140
+15,8,Beliefs and Other,Mythology,magic bullets,156
+15,9,Thought,Philosophy,Rhetoric,148
+15,10,Beliefs and Other,Current Events,Mia Mottley,145
+15,11,Beliefs and Other,Religion,1990s,138
+15,12,Science,Other Science,temperature,132
+15,13,History,World History,Hūlāgū Khan,151
+15,14,Literature,British Literature,“The Sea and the Mirror”,128
+15,15,History,Other History,law,152
+15,16,Science,Biology,hematopoietic stem cell transplant,131
+15,17,Thought,Social Science,time series data,145
+15,18,Arts,Painting/Sculpture,Otto,174
+15,19,Arts,Other Fine Arts,schools,168
+15,20,Arts,Classical Music,Charles Ives,140
+16,1,Arts,Painting/Sculpture,wood,145
+16,2,Literature,European Literature,Lisbon,157
+16,3,Science,Biology,ammonia,115
+16,4,History,World History,Bangladesh Liberation War,134
+16,5,Thought,Philosophy,Jerry Fodor,140
+16,6,Literature,British Literature,Angela Carter,150
+16,7,Thought,Social Science,decision-making,130
+16,8,Beliefs and Other,Religion,kachinas,143
+16,9,History,American History,Northwest Territory,148
+16,10,Science,Other Science,oil wells,135
+16,11,Literature,World Literature,Nigerian Civil War,146
+16,12,History,Other History,Sicily,156
+16,13,Beliefs and Other,Other Academic,Aryan Brotherhood,136
+16,14,Arts,Other Fine Arts,Joseph Beuys,167
+16,15,Science,Physics,symplectic,139
+16,16,Arts,Classical Music,Stabat Mater,148
+16,17,Literature,American Literature,Lillian Hellman,155
+16,18,Beliefs and Other,Geography,Brussels,137
+16,19,History,European History,Béla IV of Hungary,158
+16,20,Science,Chemistry,fluorine,137
+17,1,Science,Physics,pressure,147
+17,2,History,American History,Los Angeles,153
+17,3,Thought,Philosophy,Christianity,156
+17,4,History,Other History,Liú Bāng,163
+17,5,Arts,Classical Music,Franz Schubert’s Symphony no. 9 in C major,147
+17,6,Literature,World Literature,skin,153
+17,7,Arts,Painting/Sculpture,Heracles,157
+17,8,Beliefs and Other,Mythology,Indonesia,162
+17,9,Science,Chemistry,basis sets,135
+17,10,Literature,British Literature,King Lear,152
+17,11,Arts,Other Fine Arts,calypso,149
+17,12,Beliefs and Other,Religion,Ayurveda,145
+17,13,Science,Biology,phosphatases,139
+17,14,History,European History,Novgorod Republic,149
+17,15,Literature,American Literature,Paris,145
+17,16,Science,Other Science,jet streams,142
+17,17,History,World History,Cristero War,136
+17,18,Beliefs and Other,Current Events,assisted suicide,142
+17,19,Thought,Social Science,political parties,125
+17,20,Literature,European Literature,Karl Ove Knausgård,150
+18,1,Literature,British Literature,Battle of Maldon,156
+18,2,Science,Other Science,estimators,155
+18,3,Thought,Philosophy,Hubert Dreyfus,129
+18,4,NA,European History&gt;,alcohol,160
+18,5,Arts,Other Fine Arts,the War Room,150
+18,6,Beliefs and Other,Geography,cartography,126
+18,7,History,American History,Valley Forge,157
+18,8,Literature,World Literature,Elif Shafak,155
+18,9,Beliefs and Other,Other Academic,barbershops,142
+18,10,Science,Chemistry,silanes,132
+18,11,Arts,Painting/Sculpture,John Milton,157
+18,12,Beliefs and Other,Religion,Sufi saints,150
+18,13,History,World History,abolition of slavery in Brazil,149
+18,14,Literature,European Literature,linden trees,161
+18,15,History,Other History,Ian Smith,134
+18,16,Science,Biology,Native American people,137
+18,17,Arts,Classical Music,Ludwig van Beethoven,145
+18,18,Science,Physics,Bose–Einstein condensates,128
+18,19,Literature,American Literature,The Dream Songs,154
+18,20,Thought,Social Science,liquidity preference,146
+19,1,Science,Chemistry,quantum tunneling,134
+19,2,History,Other History,Uruk,148
+19,3,Literature,American Literature,Frederick Douglass’s fight with Edward Covey,161
+19,4,Thought,Social Science,visual cortex,147
+19,5,Science,Physics,shear stress,153
+19,6,Arts,Painting/Sculpture,Hermitage Museum,137
+19,7,Literature,European Literature,China,160
+19,8,Beliefs and Other,Religion,harvests,147
+19,9,Beliefs and Other,Geography,Maasai,147
+19,10,History,World History,Yǒnglè,143
+19,11,Literature,World Literature,Antigone,154
+19,12,Beliefs and Other,Mythology,The White Goddess,147
+19,13,Science,Biology,mollusk shells,135
+19,14,Literature,British Literature,The Golden Bowl,131
+19,15,Arts,Other Fine Arts,Annie Get Your Gun,152
+19,16,Thought,Philosophy,Stanford University,127
+19,17,History,American History,Margaret Chase Smith,139
+19,18,Science,Other Science,graphs,144
+19,19,Arts,Classical Music,Johann Christian Bach,140
+19,20,History,European History,Crete,155
+2,1,Science,Other Science,geomagnetic storms,133
+2,2,Beliefs and Other,Current Events,Meta,136
+2,3,Science,Physics,symmetry breaking,131
+2,4,Literature,World Literature,Katherine Mansfield,167
+2,5,Arts,Other Fine Arts,Abbas Kiarostami,172
+2,6,Thought,Social Science,Jeffrey Sachs,140
+2,7,Beliefs and Other,Religion,Rick Warren,134
+2,8,History,European History,Russian oligarchs,146
+2,9,Literature,European Literature,Solaris,153
+2,10,History,World History,jihads,152
+2,11,Literature,American Literature,Compson family,153
+2,12,History,American History,Hull House,137
+2,13,Arts,Painting/Sculpture,Milan Cathedral,154
+2,14,Science,Chemistry,cis–trans isomerization,137
+2,15,Arts,Classical Music,Iannis Xenakis,142
+2,16,Thought,Philosophy,The Open Society and Its Enemies,144
+2,17,History,Other History,Saqqara,155
+2,18,Science,Biology,ferns,134
+2,19,Beliefs and Other,Mythology,wealth,164
+2,20,Literature,British Literature,the Dark Tower,154
+20,1,Science,Physics,baryon number,146
+20,2,Thought,Social Science,speech-language pathology,135
+20,3,History,Other History,Bukhara,160
+20,4,Beliefs and Other,Other Academic,performance anxiety,151
+20,5,Beliefs and Other,Current Events,French retirees,136
+20,6,Science,Biology,catatonia,136
+20,7,Literature,American Literature,Charles Chesnutt,164
+20,8,History,European History,Porphyrogenitus,157
+20,9,Arts,Classical Music,string sextet,147
+20,10,Literature,British Literature,Christopher Marlowe,149
+20,11,Science,Chemistry,gauche,135
+20,12,History,American History,Nicholas Biddle,147
+20,13,Beliefs and Other,Religion,wells,160
+20,14,Arts,Painting/Sculpture,angels,165
+20,15,Science,Other Science,HTTP,140
+20,16,Arts,Other Fine Arts,the Congo,184
+20,17,Literature,World Literature,Anne Carson,151
+20,18,History,World History,Lesotho,141
+20,19,Thought,Philosophy,bio-,150
+20,20,Literature,European Literature,François Rabelais,144
+21,1,Thought,Social Science,heterosexuality,148
+21,2,History,European History,Norwich,156
+21,3,Science,Chemistry,salts,137
+21,4,Literature,British Literature,Brick Lane,163
+21,5,Science,Biology,sexual differentiation,142
+21,6,Arts,Painting/Sculpture,Hans Holbein the Younger,152
+21,7,Beliefs and Other,Religion,Portugal,153
+21,8,Literature,European Literature,Albert Camus,167
+21,9,History,World History,Zulu Kingdom,141
+21,10,Beliefs and Other,Current Events,United States Chamber of Commerce,136
+21,11,Science,Other Science,seismic waves,126
+21,12,Literature,American Literature,James Baldwin AND Richard Wright,160
+21,13,History,Other History,Tangier,139
+21,14,Beliefs and Other,Other Academic,players of World of Warcraft,145
+21,15,History,American History,John Brown,153
+21,16,Thought,Philosophy,Either/Or,150
+21,17,Science,Physics,orbital eccentricity,152
+21,18,Arts,Classical Music,oxen,157
+21,19,Literature,World Literature,The Kingdom of This World,156
+21,20,Arts,Other Fine Arts,dolls,155
+22,1,Science,Physics,cyclotron motion,139
+22,2,Literature,British Literature,William Hazlitt,134
+22,3,Thought,Philosophy,possibility,143
+22,4,History,Other History,Scythians,142
+22,5,Beliefs and Other,Geography,food delivery,150
+22,6,History,European History,independence of Norway,149
+22,7,Literature,European Literature,the double,160
+22,8,Arts,Classical Music,encores,146
+22,9,Science,Chemistry,styrene,134
+22,10,Beliefs and Other,Religion,dukkha,144
+22,11,History,World History,2000s,148
+22,12,Science,Biology,IgM,136
+22,13,Thought,Social Science,Robert Bellah,154
+22,14,Beliefs and Other,Mythology,Ereshkigal,161
+22,15,History,American History,Sears,136
+22,16,Arts,Other Fine Arts,Richard Neutra,146
+22,17,Literature,American Literature,"Amherst, Massachusetts",136
+22,18,Science,Other Science,completeness,147
+22,19,Literature,World Literature,Brás Cubas,146
+22,20,Arts,Painting/Sculpture,medals,142
+23,1,Literature,European Literature,“Lament for the Death of a Bullfighter”,151
+23,2,History,American History,John Wayne,144
+23,3,Literature,British Literature,Thomas Gray,145
+23,4,Science,Physics,coefficient of thermal expansion,123
+23,5,Arts,Painting/Sculpture,Chinese emperors,163
+23,6,Thought,Social Science,tax havens,134
+23,7,History,World History,Bartolomé de las Casas,148
+23,8,Beliefs and Other,Other Academic,fox hunting,158
+23,9,Beliefs and Other,Religion,the Mahdī,146
+23,10,Science,Other Science,finding the roots of a function,145
+23,11,Arts,Other Fine Arts,Yī Yī,152
+23,12,Science,Chemistry,lignin,138
+23,13,Arts,Classical Music,E minor,155
+23,14,History,Other History,1810s,144
+23,15,Literature,World Literature,Ha Jin,163
+23,16,Thought,Philosophy,Some Thoughts Concerning Education,150
+23,17,Science,Biology,poly-A tails,129
+23,18,Literature,American Literature,Kathy Acker,156
+23,19,Beliefs and Other,Geography,Marrakesh,146
+23,20,History,European History,the Anarchy,153
+24,1,Science,Physics,shock waves,148
+24,2,Beliefs and Other,Mythology,wendigos,142
+24,3,Thought,Philosophy,love,147
+24,4,History,Other History,siegecraft,147
+24,5,Literature,American Literature,James Merrill,156
+24,6,Science,Chemistry,osmium tetroxide,138
+24,7,Arts,Classical Music,Ireland,144
+24,8,Beliefs and Other,Current Events,the Philippines,139
+24,9,Literature,World Literature,Season of Migration to the North,152
+24,10,History,European History,The Jacquerie,157
+24,11,Arts,Painting/Sculpture,miniature portraits,153
+24,12,Science,Biology,nuclear lamins,122
+24,13,History,American History,Arkansas,139
+24,14,Arts,Other Fine Arts,Andreas Gursky,142
+24,15,Literature,British Literature,Stevie Smith,149
+24,16,Beliefs and Other,Religion,shalom,174
+24,17,Thought,Social Science,mindfulness,138
+24,18,Science,Other Science,pistons,146
+24,19,History,World History,ikkō-ikki,139
+24,20,Literature,European Literature,Maxim Gorky,163
+3,1,Literature,European Literature,the library from The Name of the Rose,165
+3,2,History,Other History,Montreal,145
+3,3,Thought,Social Science,loanwords,134
+3,4,Beliefs and Other,Geography,pearl fishing,141
+3,5,Science,Biology,beta-galactosidase,142
+3,6,Beliefs and Other,Religion,mourning of Muharram,138
+3,7,Arts,Other Fine Arts,Soviet Union,126
+3,8,Literature,British Literature,Patrick O’Brian,134
+3,9,History,World History,Mapuche,145
+3,10,Science,Chemistry,liquid droplets,139
+3,11,History,European History,Axel Oxenstierna,140
+3,12,Beliefs and Other,Other Academic,wombs,146
+3,13,Literature,World Literature,Tsitsi Dangarembga,153
+3,14,Arts,Classical Music,Le tombeau de Couperin,140
+3,15,History,American History,orange industry,141
+3,16,Science,Physics,cross section,156
+3,17,Arts,Painting/Sculpture,love letters,170
+3,18,Thought,Philosophy,France,131
+3,19,Literature,American Literature,rain,157
+3,20,Science,Other Science,abelian,135
+4,1,Beliefs and Other,Current Events,Ulster loyalism,135
+4,2,Science,Physics,electric field,153
+4,3,History,European History,Bedchamber crisis,153
+4,4,Literature,European Literature,Alexandria,158
+4,5,Arts,Painting/Sculpture,George Bellows,150
+4,6,Beliefs and Other,Religion,Myanmar,143
+4,7,Science,Biology,axolotl,114
+4,8,History,American History,Woodrow Wilson,137
+4,9,Literature,American Literature,nautilus,159
+4,10,Thought,Philosophy,Kyōto University,141
+4,11,History,World History,Malacca,149
+4,12,Arts,Other Fine Arts,Duke Ellington,145
+4,13,Literature,World Literature,Dalits,159
+4,14,Arts,Classical Music,Anton Webern,135
+4,15,Thought,Social Science,barriers to entry,133
+4,16,Science,Chemistry,cyclobutane,140
+4,17,Beliefs and Other,Mythology,Pomona,152
+4,18,History,Other History,Jacob Burckhardt,146
+4,19,Science,Other Science,astrophysical jets,140
+4,20,Literature,British Literature,Bulwer-Lytton,156
+5,1,Science,Other Science,air quality,136
+5,2,Literature,American Literature,“Pale Fire”,171
+5,3,History,Other History,Latins,148
+5,4,Beliefs and Other,Religion,Digambaras,149
+5,5,Literature,British Literature,Rebecca,150
+5,6,Thought,Social Science,Java,142
+5,7,Science,Physics,virial coefficients,143
+5,8,Arts,Painting/Sculpture,Jean Dubuffet,147
+5,9,History,American History,Virginia,143
+5,10,Beliefs and Other,Geography,India,144
+5,11,Science,Biology,body size,128
+5,12,Thought,Philosophy,Jacques Lacan,132
+5,13,Beliefs and Other,Other Academic,chop suey,142
+5,14,Science,Chemistry,glass transition temperature,140
+5,15,Arts,Other Fine Arts,Hearst family,145
+5,16,History,European History,ETA,131
+5,17,Literature,European Literature,shipwrecks,144
+5,18,History,World History,Mamluk Sultanate,163
+5,19,Arts,Classical Music,humoresque,146
+5,20,Literature,World Literature,Robinson Crusoe,158
+6,1,Arts,Other Fine Arts,two,143
+6,2,Science,Other Science,neutrino detectors,132
+6,3,Literature,American Literature,soldiers,152
+6,4,History,American History,1967,147
+6,5,Beliefs and Other,Religion,Nephi,163
+6,6,Literature,European Literature,“The Gentleman from San Francisco”,145
+6,7,Science,Physics,Lamb shift,143
+6,8,Thought,Philosophy,normativity,138
+6,9,Beliefs and Other,Geography,valleys,138
+6,10,History,European History,Second Vatican Council,144
+6,11,Science,Chemistry,manganese,138
+6,12,History,World History,farming,143
+6,13,Arts,Classical Music,divertimento,159
+6,14,History,Other History,Royal Dutch Shell,135
+6,15,Beliefs and Other,Mythology,Culhwch,160
+6,16,Literature,World Literature,Death and the Maiden,154
+6,17,Thought,Social Science,substantive,138
+6,18,Science,Biology,Amanita,135
+6,19,Arts,Painting/Sculpture,Oscar Wilde,142
+6,20,Literature,British Literature,David Mitchell,157
+7,1,Beliefs and Other,Current Events,hijab,159
+7,2,Literature,World Literature,US–Mexico border,152
+7,3,Science,Biology,Fallopian tubes,132
+7,4,Literature,American Literature,Alison Bechdel &nbsp;,154
+7,5,Beliefs and Other,Religion,Maronite Church,148
+7,6,History,European History,Wallachia,155
+7,7,Science,Other Science,fast Fourier transform,134
+7,8,History,World History,Kāifēng,144
+7,9,Thought,Social Science,criminology,133
+7,10,Arts,Other Fine Arts,Brazil,146
+7,11,Beliefs and Other,Other Academic,André Malraux,162
+7,12,Arts,Painting/Sculpture,Leonora Carrington,160
+7,13,Science,Chemistry,carboxylate,146
+7,14,Arts,Classical Music,California,133
+7,15,Science,Physics,linear accelerators,149
+7,16,Thought,Philosophy,Martha Nussbaum,144
+7,17,Literature,British Literature,Edinburgh,130
+7,18,History,American History,Underground Railroad,139
+7,19,Literature,European Literature,Hungary,169
+7,20,History,Other History,Arabia,153
+8,1,Thought,Philosophy,Ernst Cassirer,117
+8,2,Arts,Other Fine Arts,Elsa,151
+8,3,History,American History,Superfund,153
+8,4,Arts,Classical Music,Gioachino,144
+8,5,Science,Biology,heritability,142
+8,6,Literature,European Literature,hotels,164
+8,7,Science,Chemistry,solvation,139
+8,8,Literature,World Literature,Israel,155
+8,9,History,World History,Muhammad Ali Pasha,151
+8,10,Thought,Social Science,justice,133
+8,11,Literature,American Literature,camp,145
+8,12,Arts,Painting/Sculpture,Peter Paul Rubens,148
+8,13,Beliefs and Other,Mythology,iron,152
+8,14,History,Other History,Gallipoli peninsula,147
+8,15,Science,Physics,Henri Poincaré,140
+8,16,Literature,British Literature,Arcadia,156
+8,17,Science,Other Science,crystal twinning,140
+8,18,Beliefs and Other,Religion,date palm trees,162
+8,19,Beliefs and Other,Current Events,Colorado,150
+8,20,History,European History,Leopold I of Belgium,163
+9,1,Thought,Philosophy,progress,160
+9,2,Science,Physics,dipoles,135
+9,3,Literature,World Literature,“Cogwheels”,150
+9,4,Arts,Painting/Sculpture,Poland,143
+9,5,Thought,Social Science,computers,137
+9,6,History,American History,Georgia,146
+9,7,Beliefs and Other,Current Events,pharmaceuticals,142
+9,8,History,World History,Nguyễn dynasty,144
+9,9,Science,Chemistry,binding,134
+9,10,Literature,European Literature,Caucasus Mountains,157
+9,11,History,Other History,Anglo-Saxon settlement of Britain,131
+9,12,Beliefs and Other,Religion,Hachiman,153
+9,13,Arts,Classical Music,London symphonies,164
+9,14,History,European History,Florence,172
+9,15,Literature,American Literature,Rita Dove,150
+9,16,Science,Biology,membrane curvature,133
+9,17,Literature,British Literature,rivers,163
+9,18,Science,Other Science,metallicity,153
+9,19,Arts,Other Fine Arts,La fille du régiment,167
+9,20,Beliefs and Other,Other Academic,Texas,157

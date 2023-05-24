@@ -1,4 +1,4 @@
-# bayes_project
+# Quizbowl Survival Analysis
 
 For this project, I used detailed statistics and Bayesian survival analysis to create simulations of quizbowl matches. Quizbowl has virtually no advanced stats at the moment, even though the stats we do have don't predict outcomes that well. Several teams regularly over or underperform their PPG. I created this project as a way to check whether those outcomes were flukes or based on something our existing stats weren't capturing.
 

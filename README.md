@@ -4,6 +4,8 @@ For this project, I used detailed statistics and Bayesian survival analysis to c
 
 For background: quizbowl is like a harder, more academic version of Jeopardy! played by college teams. The clues in a tossup start out hard and get easier as you go on, so that teams with more knowledge will be able to buzz earlier. Some events, like the national championship held by the Academic Competition Federation (ACF), keep track of where players buzz on each tossup. My project analyzes these stats to produce estimates of team and player strength.
 
+The code for this project is in the Jupyter Notebook Nats_Analytics.ipynb. Results are stored in sim_results.csv and plots can be found in the histograms folder. 
+
 # Regression
 
 To create these estimates, I used a Weibull regression with censoring on the buzzpoint data. Only one team can buzz correctly on each tossup, so the stats on a player or team's buzzes will not include the questions they missed. To account for this problem, I right-censored the buzzpoint data, including questions a player missed, and ran a regression to estimate where the player or team would have answered the question with no opponent. 
